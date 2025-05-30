@@ -1,1 +1,1 @@
-### Aim of the experiment
+### aim of the experiment
