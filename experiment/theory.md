@@ -1,7 +1,7 @@
 The noise figure (NF) of an amplifier is a key parameter used to evaluate how much additional noise the amplifier introduces to a signal. When a signal passes through any electronic device, particularly amplifiers, some internal noise is added due to thermal agitation, component imperfections, and active device behavior. The NF quantifies this added noise in terms of how much it degrades the signal-to-noise ratio (SNR).
 
 
-1. Definition of Noise Figure:
+### 1. Definition of Noise Figure:
 
 The Noise Figure (F) is defined as:
 
@@ -20,14 +20,14 @@ In decibel form, the Noise Figure is:
 NF(dB) = 10 * log10(F)
 
 
-2. Significance of Noise Figure:
+### 2. Significance of Noise Figure:
 
 The lower the noise figure, the better the amplifier is at preserving the input signal quality.
 
 It's crucial in systems like RF communication, satellite receivers, radar, and medical imaging, where weak signals need to be amplified without adding too much noise.
 
 
-3. Methods of Measurement:
+### 3. Methods of Measurement:
 
 One common method used in the lab to measure NF is the Y-Factor Method, which uses a calibrated noise source that can switch between two known states:
 
@@ -64,7 +64,7 @@ The amplifier under test
 A spectrum analyzer or noise figure meter
 
 
-4. Practical Considerations:
+### 4. Practical Considerations:
 
 The gain of the amplifier must be high enough to minimize the effect of measurement equipment noise.
 
