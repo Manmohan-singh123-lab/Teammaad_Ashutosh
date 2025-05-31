@@ -1,0 +1,46 @@
+{
+
+   "details": [
+       {
+			"Experiment": "Noise Figure Measurement of Amplifier",     
+			"Lab": "Communication Engineering Lab",               
+			"Discipline": "Electronics & Communication Engineering",				 
+			"Technology": "HTML CSS Javascript"         
+       }
+   ],
+
+   "developer": [
+       {       
+      "Developer": "Mr. Rajeev Kumar",         
+      "Institute": "Rajkiya Engineering College , Kannauj",         
+      "InstituteAcronym": "RECK"   
+       }
+   ],
+
+   "contributer": [
+       {       
+			"Contributer": "Ashutosh Kumar Yadav",             
+      "Institute": "Rajkiya Engineering College , Kannauj",               
+			"InstituteAcronym": "RECK"         
+       },
+
+       {       
+			"Contributer": "Dhruv Narayan Singh",              
+      "Institute": "Rajkiya Engineering College , Kannauj",               
+			"InstituteAcronym": "RECK"         
+       },
+
+       {       
+			"Contributer": "Anand Kumar",             
+      "Institute": "Rajkiya Engineering College , Kannauj",               
+			"InstituteAcronym": "RECK"         
+       },
+
+       {       
+			"Contributer": "Manmohan",              
+      "Institute": "Rajkiya Engineering College , Kannauj",               
+			"InstituteAcronym": "RECK"         
+       }
+   ]
+
+}
