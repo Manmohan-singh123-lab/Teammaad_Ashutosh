@@ -2,38 +2,89 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which of the following best describes the purpose of measuring noise figure in an amplifier?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "To calculate the power output",
+        "b": "To assess signal distortion",
+        "c": "To determine how much noise the amplifier adds",
+        "d": "To evaluate frequency response"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect  <a href='www.google.com'>here</a>",
+        "b": "Incorrect",
+        "c": "Correct",
+        "d": "Incorrect"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
-    }
+    },
+    {
+      "question": "What is the effect of a high noise figure on a communication system?",
+      "answers": {
+        "a": "Improved bandwidth",
+        "b": "Increased signal strength",
+        "c": "Degraded signal quality",
+        "d": "Reduced input impedance"
+      },
+      "explanations": {
+        "a": "Incorrect  <a href='www.google.com'>here</a>",
+        "b": "Incorrect",
+        "c": "Correct",
+        "d": "Incorrect"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which measurement method compares output noise levels under two known conditions (hot and cold)?",
+      "answers": {
+        "a": "S-parameter method",
+        "b": "Y-factor method",
+        "c": "Noise ratio method",
+        "d": "Harmonic balance method"
+      },
+      "explanations": {
+        "a": "Incorrect  <a href='www.google.com'>here</a>",
+        "b": "Correct",
+        "c": "Incorrect",
+        "d": "Incorrect"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A noise figure of 0 dB implies:",
+      "answers": {
+        "a": "Infinite SNR",
+        "b": "No added noise by the amplifier",
+        "c": "The output is twice the input",
+        "d": "The amplifier has 100% efficiency"
+      },
+      "explanations": {
+        "a": "Incorrect  <a href='www.google.com'>here</a>",
+        "b": "Correct",
+        "c": "Incorrect",
+        "d": "Incorrect"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which parameter in a cascaded system has the most impact on overall noise figure?",
+      "answers": {
+        "a": "Last stage gain",
+        "b": "Middle stage bandwidth",
+        "c": "First stage noise figure and gain",
+        "d": "Output impedance"
+      },
+      "explanations": {
+        "a": "Incorrect  <a href='www.google.com'>here</a>",
+        "b": "Incorrect",
+        "c": "Correct",
+        "d": "Incorrect"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
   ]
 }
