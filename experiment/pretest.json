@@ -2,35 +2,86 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What does the Noise Figure (NF) of an amplifier represent?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "The input power of the amplifier",
+        "b": "The efficiency of the amplifier",
+        "c": "The degradation of the signal-to-noise ratio (SNR) due to the amplifier",
+        "d": "The frequency response of the amplifier"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect  <a href='www.google.com'>here</a>",
+        "b": "Incorrect",
+        "c": "Correct",
+        "d": "Incorrect"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which unit is commonly used to express Noise Figure?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Watts",
+        "b": "dBm",
+        "c": "dB",
+        "d": "Ohms"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect  <a href='www.google.com'>here</a>",
+        "b": "Incorrect",
+        "c": "Correct",
+        "d": "Incorrect"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A noise figure of 0 dB indicates:",
+      "answers": {
+        "a": " Infinite gain",
+        "b": "Perfect amplifier (no added noise)",
+        "c": "Zero power consumption",
+        "d": "Maximum output noise"
+      },
+      "explanations": {
+        "a": "Incorrect  <a href='www.google.com'>here</a>",
+        "b": "Correct",
+        "c": "Incorrect",
+        "d": "Incorrect"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which parameter primarily affects the noise figure of a cascaded system?",
+      "answers": {
+        "a": "The last stage gain",
+        "b": "The highest gain stage",
+        "c": "The first stage noise figure and gain",
+        "d": "The system bandwidth"
+      },
+      "explanations": {
+        "a": "Incorrect  <a href='www.google.com'>here</a>",
+        "b": "Incorrect",
+        "c": "Correct",
+        "d": "Incorrect"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What happens to the overall noise figure if a lossy component (like an attenuator) is placed before a low-noise amplifier (LNA)?",
+      "answers": {
+        "a": "It improves the noise figure",
+        "b": "It has no effect on the noise figure",
+        "c": "It significantly degrades the noise figure",
+        "d": "It increases the amplifier’s gain"
+      },
+      "explanations": {
+        "a": "Incorrect  <a href='www.google.com'>here</a>",
+        "b": "Incorrect",
+        "c": "Correct",
+        "d": "Incorrect"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
