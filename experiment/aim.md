@@ -1,1 +1,2 @@
-### aim of the experiment
+### Aim of the Experiment
+To measure the noise figure of an amplifier using the Y-method in dB, in order to determine how much noise it adds to a signal. This helps assess the amplifier’s suitability for low-noise applications like communication systems, ensuring better signal quality and overall system performance.
