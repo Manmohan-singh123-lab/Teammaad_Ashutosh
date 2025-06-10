@@ -142,7 +142,7 @@
         d: "Output impedance"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "c"             ///// Write the correct option inside double quotes
-    }, 
+    }
 
     ///// To add more questions, copy the section below 
     									                  ///// this line
